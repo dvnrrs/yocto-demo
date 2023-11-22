@@ -1,5 +1,5 @@
-# Recipes should always have a description.
-DESCRIPTION = "The cmake-examples project from the previous demo on CMake"
+# Recipes should always have a SUMMARY and sometimes a DESCRIPTION.
+SUMMARY = "The cmake-examples project from the previous demo on CMake"
 
 # Recipes always have a version number. It can either be placed in the
 # filename (cmake-example-child_1.0.0.bb) or by explicitly specifying the PV
